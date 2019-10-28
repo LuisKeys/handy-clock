@@ -90,7 +90,7 @@
       this.Controls.Add(this.lblTimeWA);
       this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
       this.Name = "MainForm";
-      this.Opacity = 0.8D;
+      this.Opacity = 0.6D;
       this.Text = "MainForm";
       this.Load += new System.EventHandler(this.MainForm_Load);
       this.MouseEnter += new System.EventHandler(this.MainForm_MouseEnter);
